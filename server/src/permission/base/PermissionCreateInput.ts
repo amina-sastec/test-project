@@ -1,0 +1,2 @@
+class PermissionCreateInput {}
+export { PermissionCreateInput };

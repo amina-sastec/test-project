@@ -1,0 +1,2 @@
+class RoleCreateInput {}
+export { RoleCreateInput };
