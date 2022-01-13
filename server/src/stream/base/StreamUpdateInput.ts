@@ -1,0 +1,2 @@
+class StreamUpdateInput {}
+export { StreamUpdateInput };
