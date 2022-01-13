@@ -1,0 +1,2 @@
+class PermissionUpdateInput {}
+export { PermissionUpdateInput };

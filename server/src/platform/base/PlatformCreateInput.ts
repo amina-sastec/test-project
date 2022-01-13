@@ -1,0 +1,2 @@
+class PlatformCreateInput {}
+export { PlatformCreateInput };
