@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.10.3",
+  "appInfo": {
+    "name": "My app",
+    "description": "",
+    "version": "pok40alw",
+    "id": "ckyd2t591154291bpj6mb3d55p",
+    "url": "http://localhost:3005/ckyd2t591154291bpj6mb3d55p",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckyd2t591154291bpj6mb3d55p",
+      "authProvider": "Jwt"
+    }
+  }
+}
