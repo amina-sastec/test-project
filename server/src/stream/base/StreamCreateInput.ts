@@ -1,0 +1,2 @@
+class StreamCreateInput {}
+export { StreamCreateInput };

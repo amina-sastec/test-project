@@ -1,0 +1,2 @@
+class PlatformUpdateInput {}
+export { PlatformUpdateInput };

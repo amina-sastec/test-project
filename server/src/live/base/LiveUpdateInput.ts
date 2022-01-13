@@ -1,0 +1,2 @@
+class LiveUpdateInput {}
+export { LiveUpdateInput };

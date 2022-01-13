@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.10.3",
+  "appInfo": {
+    "name": "My app",
+    "description": "",
+    "version": "atj2kdv3",
+    "id": "ckya1n81k05561brpcowpjwb2",
+    "url": "http://localhost:3005/ckya1n81k05561brpcowpjwb2",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckya1n81k05561brpcowpjwb2",
+      "authProvider": "Jwt"
+    }
+  }
+}
